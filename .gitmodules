@@ -1,0 +1,6 @@
+[submodule "StardewValley-ModsList-Net"]
+	path = StardewValley-ModsList-Net
+	url = https://github.com/herghys/StardewValley-ModsList-Net
+[submodule "StardewValley-ModsList-NetFramework"]
+	path = StardewValley-ModsList-NetFramework
+	url = https://github.com/herghys/StardewValley-ModsList-NetFramework
